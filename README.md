@@ -1,2 +1,2 @@
 # tibami
-tibami class
+tibami coding class
